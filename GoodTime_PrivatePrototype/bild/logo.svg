@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="96"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="C:\Users\Julio-Cesar\Documents\GitHub\bombardi_descargable\GoodTime_PrivatePrototype\bild\logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="107.13226"
+     inkscape:cy="44.901096"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-956.3609)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#376092;fill-opacity:1;stroke:none"
+       id="path3118"
+       sodipodi:cx="376.47058"
+       sodipodi:cy="474.28775"
+       sodipodi:rx="331.60144"
+       sodipodi:ry="33.498199"
+       d="m 708.07202,474.28775 a 331.60144,33.498199 0 1 1 -663.202879,0 331.60144,33.498199 0 1 1 663.202879,0 z"
+       transform="matrix(0.38596447,-0.05004228,0.05518279,0.5494241,-43.476791,750.83893)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3279"
+       style="font-size:32px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bodoni MT;-inkscape-font-specification:Bodoni MT Bold;font-stretch:normal;font-variant:normal"
+       transform="translate(0,956.3609)"><flowRegion
+         id="flowRegion3281"><rect
+           id="rect3283"
+           width="259.5"
+           height="70.5"
+           x="11.999999"
+           y="18.500004"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bodoni MT;-inkscape-font-specification:Bodoni MT Bold" /></flowRegion><flowPara
+         id="flowPara3285">Private Prototype</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Copperplate Gothic Light;-inkscape-font-specification:Copperplate Gothic Light"
+       x="25.999998"
+       y="1039.3608"
+       id="text3287"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3289"
+         x="25.999998"
+         y="1039.3608">only for IA testing</tspan></text>
+  </g>
+</svg>
